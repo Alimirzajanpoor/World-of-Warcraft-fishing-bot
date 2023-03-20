@@ -10,3 +10,4 @@ and turn on auto loot
 *optional* you can download "Fasterloot" addon if your character isnt looting quick
 
 happy fishing
+WARNING: YOU CAN GET BANNED FOR THIS be careful :)
