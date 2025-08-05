@@ -1,0 +1,20 @@
+# Core dependencies for optimized WoW fishing bot
+# Audio processing
+pyaudio>=0.2.11
+numpy>=1.21.0,<2.0.0  # Optimized for performance, avoid 2.x for now
+
+# GUI automation
+pyautogui>=0.9.54
+pynput>=1.7.6
+
+# Optional performance enhancements
+scipy>=1.7.0  # For advanced signal processing if needed
+numba>=0.56.0  # JIT compilation for hot paths (optional)
+
+# Development and profiling (optional)
+cProfile  # Built-in, no version needed
+memory-profiler>=0.60.0  # For memory profiling
+psutil>=5.8.0  # System resource monitoring
+
+# Logging and configuration
+# (using built-in logging and argparse - no additional deps needed)
